@@ -1,4 +1,4 @@
-#bin/bash
+#!/bin/bash
 #Opens predefined set of Konsole tabs, with a title for each tab, and run one or more commands on each tab
 #Ref - https://gist.github.com/chetanmeh/5676141
 
